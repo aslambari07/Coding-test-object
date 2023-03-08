@@ -25,6 +25,8 @@ TODO
  */
 
 // Tulis kode di bawah ini
+
+
 let restaurant = {
 
             "name" : "Bakso Mang Dicoding",
